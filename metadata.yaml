@@ -1,0 +1,38 @@
+_repo: The-Red-Miriok_34810
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Newman, George A.
+    gutenberg_agent_id: '37256'
+    url: http://www.gutenberg.org/2009/agents/37256
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barnes, Annie Maria
+    aliases:
+    - Barnes, Anna M. (Anna Maria)
+    - Barnes, Annie M. (Annie Maria)
+    - Barnes, Anna Maria
+    - Barnes, A. M. (Annie Maria)
+    birthdate: 1857
+    gutenberg_agent_id: '37255'
+    url: http://www.gutenberg.org/2009/agents/37255
+description: ''
+gutenberg_issued: '2011-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Americans -- Korea -- Juvenile fiction'
+title: The Red Miriok
+url: http://www.gutenberg.org/ebooks/34810
